@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/c_programming"
+    app:startDestination="@id/cp">
+    <fragment
+        android:id="@+id/cp"
+        android:name="com.example.codehelper.cp"
+        android:label="fragment_cp"
+        tools:layout="@layout/fragment_cp" >
+        <action
+            android:id="@+id/action_cp_to_cp1"
+            app:destination="@id/cp1" />
+        <action
+            android:id="@+id/action_cp_to_cp2"
+            app:destination="@id/cp2" />
+        <action
+            android:id="@+id/action_cp_to_cp3"
+            app:destination="@id/cp3" />
+        <action
+            android:id="@+id/action_cp_to_cp4"
+            app:destination="@id/cp4" />
+        <action
+            android:id="@+id/action_cp_to_cp5"
+            app:destination="@id/cp5" />
+        <action
+            android:id="@+id/action_cp_to_cp6"
+            app:destination="@id/cp6" />
+        <action
+            android:id="@+id/action_cp_to_cp7"
+            app:destination="@id/cp7" />
+        <action
+            android:id="@+id/action_cp_to_cp8"
+            app:destination="@id/cp8" />
+        <action
+            android:id="@+id/action_cp_to_cp9"
+            app:destination="@id/cp9" />
+        <action
+            android:id="@+id/action_cp_to_cp10"
+            app:destination="@id/cp10" />
+    </fragment>
+    <fragment
+        android:id="@+id/cp2"
+        android:name="com.example.codehelper.cp2"
+        android:label="fragment_cp2"
+        tools:layout="@layout/fragment_cp2" />
+    <fragment
+        android:id="@+id/cp1"
+        android:name="com.example.codehelper.cp1"
+        android:label="fragment_cp1"
+        tools:layout="@layout/fragment_cp1" />
+    <fragment
+        android:id="@+id/cp3"
+        android:name="com.example.codehelper.cp3"
+        android:label="fragment_cp3"
+        tools:layout="@layout/fragment_cp3" />
+    <fragment
+        android:id="@+id/cp4"
+        android:name="com.example.codehelper.cp4"
+        android:label="fragment_cp4"
+        tools:layout="@layout/fragment_cp4" />
+    <fragment
+        android:id="@+id/cp5"
+        android:name="com.example.codehelper.cp5"
+        android:label="fragment_cp5"
+        tools:layout="@layout/fragment_cp5" />
+    <fragment
+        android:id="@+id/cp6"
+        android:name="com.example.codehelper.cp6"
+        android:label="fragment_cp6"
+        tools:layout="@layout/fragment_cp6" />
+    <fragment
+        android:id="@+id/cp7"
+        android:name="com.example.codehelper.cp7"
+        android:label="fragment_cp7"
+        tools:layout="@layout/fragment_cp7" />
+    <fragment
+        android:id="@+id/cp8"
+        android:name="com.example.codehelper.cp8"
+        android:label="fragment_cp8"
+        tools:layout="@layout/fragment_cp8" />
+    <fragment
+        android:id="@+id/cp9"
+        android:name="com.example.codehelper.cp9"
+        android:label="fragment_cp9"
+        tools:layout="@layout/fragment_cp9" />
+    <fragment
+        android:id="@+id/cp10"
+        android:name="com.example.codehelper.cp10"
+        android:label="fragment_cp10"
+        tools:layout="@layout/fragment_cp10" />
+</navigation>

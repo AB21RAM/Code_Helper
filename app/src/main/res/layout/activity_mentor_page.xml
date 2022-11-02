@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".mentorPage"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/cousine_bold"
+        android:text="@string/welcome_to_mentor_support"
+        android:textSize="23sp"
+        android:textColor="@color/blue"/>
+    <EditText
+        android:id="@+id/doubt"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:autofillHints=""
+        android:hint="@string/doubt"
+        android:inputType="textMultiLine"
+        android:textColorHint="#757575" />
+
+    <EditText
+        android:id="@+id/lang"
+        android:layout_width="match_parent"
+        android:layout_height="57dp"
+        android:autofillHints=""
+        android:hint="@string/programing_language"
+        android:inputType="textMultiLine"
+        android:textColorHint="#757575" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/send"
+        android:id="@+id/send"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/your_e_mail_address"
+        android:textColor="@color/black"
+        android:textSize="10sp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailtext"
+        android:backgroundTint="@color/blue"
+        android:background="@color/blue"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:gravity="center"/>
+    <TextView
+        android:layout_width="232dp"
+        android:layout_height="30dp"
+        android:text="@string/we_ll_try_to_reach_you_through_mail"/>
+</LinearLayout>

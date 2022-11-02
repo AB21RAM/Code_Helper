@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Code Helper</string>
+    <string name="todo">TODO</string>
+    <string name="ok">ok</string>
+    <string name="username_or_email">USERNAME OR EMAIL</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="login_with_google"><b>Login With Google</b></string>
+    <string name="todo1">TODO</string>
+    <string name="logout">logout</string>
+    <string name="welcome">Welcome , </string>
+    <string name="let_s_begin">let\'s begin</string>
+    <string name="c">C</string>
+    <string name="todo2">TODO</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="c2">C++</string>
+    <string name="java">JAVA</string>
+    <string name="python">PYTHON</string>
+    <string name="language">LANGUAGE</string>
+    <string name="choose_one_language_from_below">Choose One language from below</string>
+    <string name="new_user_n_register_here">NEW USER \nREGISTER HERE</string>
+    <string name="start_course">Start Course</string>
+    <string name="test">Test</string>
+    <string name="todo7">TODO</string>
+    <string name="basic_concept">Basic Concept</string>
+    <string name="conditionals_and_loops">Conditionals And Loops</string>
+    <string name="functions_arrays_pointers"><![CDATA[Functions, Arrays & Pointers]]></string>
+    <string name="string_string_functions"><![CDATA[String & String Functions]]></string>
+    <string name="structure_union"><![CDATA[Structure & Union]]></string>
+    <string name="memory_management">Memory Management</string>
+    <string name="files_error_handling"><![CDATA[Files & Error Handling]]></string>
+    <string name="the_preprocessor">The Preprocessor</string>
+    <string name="comming_soon">Comming Soon</string>
+    <string name="summary">Summary</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sample">sample</string>
+    <string name="intro1"><b>C</b> is a <b>general-purpose programming language</b> that is extremely popular, simple, and flexible to use. It is a structured programming language that is <b>machine-independent</b> and extensively used to write various applications, <b>Operating Systems</b> like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more.
+
+It is said that ‘C’ is a god’s programming language. One can say, C is a base for the programming. If you know ‘C,’ you can easily grasp the knowledge of the other programming languages that uses the concept of ‘C’</string>
+    <string name="how">How C Programming Language Works?</string>
+    <string name="useful_notes">Useful Notes</string>
+    <string name="get_pdf">Get PDF</string>
+    <string name="useful_videos">Useful Videos</string>
+    <string name="start_playlist">Start Playlist</string>
+    <string name="access_playlist">Access Playlist</string>
+    <string name="mentor_support">Mentor Support</string>
+    <string name="send">Send</string>
+    <string name="doubt">Doubt</string>
+    <string name="programing_language">Programing Language</string>
+    <string name="welcome_to_mentor_support">Welcome To Mentor Support</string>
+    <string name="we_ll_try_to_reach_you_through_mail">We\'ll try to reach you through mail</string>
+    <string name="helpful_video">Helpful Video</string>
+    <string name="your_e_mail_address">Your E-Mail Address</string>
+</resources>
